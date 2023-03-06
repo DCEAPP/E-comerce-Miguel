@@ -1,3 +1,3 @@
 # E-comerce-Miguel
 tienda en linea para ropa artesanal
-Hola esta es mi ayuda, bye
+Hola esta es mi ayuda
